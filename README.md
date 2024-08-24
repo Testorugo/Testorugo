@@ -1,8 +1,12 @@
-<h2 align="center">Muito prazer, sou o Vitor Hugo!</h2>
+<h2 align="center">Muito prazer, sou o Vitor Hugo! 😎</h2>
 
 ###
 
 <p align="center">Sou Vitor Hugo, tenho 22 anos e estou no último semestre de Análise e Desenvolvimento de Sistemas. Apaixonado por tecnologia e programação, estou sempre em busca de aprendizado e crescimento na área de desenvolvimento.</p>
+
+###
+
+<h2 align="center">Techs 👾</h2>
 
 ###
 
@@ -25,9 +29,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=testorugo&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=testorugo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=testorugo&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=highcontrast&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=testorugo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=testorugo&radius=16&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<h2 align="center">My networks 👨🏾‍💻</h2>
 
 ###
 
